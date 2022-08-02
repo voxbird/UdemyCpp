@@ -4,7 +4,7 @@
 
 int main()
 {
-    const int l = 10;
+    const int 1 = 10;
 
     std::vector<int> my_vector(10, 0);
     std::array<int, l> my_array;
